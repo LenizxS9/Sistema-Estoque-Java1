@@ -34,6 +34,3 @@ Como desafio pessoal para o futuro, planejo evoluir este projeto adicionando:
 2.  **Busca Avançada:** Adicionar a funcionalidade de buscar produtos não só por ID, mas também por parte do nome.
 ---
 
-### Autor
-
-Feito com Java por *Leniza*
